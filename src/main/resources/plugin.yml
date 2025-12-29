@@ -1,0 +1,4 @@
+name: NoDeathClamp
+version: 1.0
+main: me.nodeath.NoDeathClamp
+api-version: 1.21
